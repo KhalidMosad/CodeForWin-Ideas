@@ -1,0 +1,1 @@
+ "e:\______MY_WORKSPACE___________\CodeForWin\File Handling\" ; if ($?) { gcc Lab4.c -o Lab4 } ; if ($?) { .\Lab4 }
